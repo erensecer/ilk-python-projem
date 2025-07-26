@@ -29,6 +29,6 @@ while calisiyor:
     pygame.draw.rect(ekran, (255, 0, 0), kare)
     pygame.display.flip()
 
-print("senin skorun",str())
+
 
 pygame.quit()
